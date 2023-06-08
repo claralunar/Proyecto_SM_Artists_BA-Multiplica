@@ -27,4 +27,15 @@ const pausesong2=()=>{
     mysong2.pause();
 }
 
+var mysong3 =new Audio();
+mysong3.src="./audio/domino wayv.mp3";
+const playsong3=()=>{
+    mysong3.play();
+ 
+}
+const pausesong3=()=>{
+    mysong3.pause();
+}
+
+
 
