@@ -28,6 +28,26 @@ header {
     
 }
 
+.button{
+    position: absolute;
+    top: 0px;
+    right: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    border-style:outset;
+    border-radius: 2px;
+    font-size: medium;
+    background-color: pink;
+    width:120px;
+    height:30px;
+    
+}
+
+.button:hover{
+    background-color:#fff;
+
+}
+
 nav{
     background-color: rgb(251, 225, 233);
     margin-bottom: 0;
@@ -59,14 +79,10 @@ nav ul li {
     text-decoration: none;
     text-align: center;
     display:inline-block;
-    padding: 0.2em 0.6em;
+    padding: 0.2em 0.4em;
     cursor: pointer;
     font-size: medium;
     max-width: 100%;
-    
-   
-  
-   
 
 
 }
