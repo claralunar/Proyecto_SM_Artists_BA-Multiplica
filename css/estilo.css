@@ -72,6 +72,7 @@ nav{
     background-color: rgb(251, 225, 233);
     margin-bottom: 0;
     max-width: 100%;
+    min-width: 230px;
    
    
 }
@@ -91,6 +92,7 @@ nav ul li{
     width: 24.67%;
     max-width: 100%;
     justify-content: center;
+    
 
 }
 
@@ -103,6 +105,7 @@ nav ul li {
     cursor: pointer;
     font-size: medium;
     max-width: 100%;
+    
 
 
 }
@@ -110,6 +113,7 @@ nav ul li {
 nav ul li:hover {
     background-color:pink;
     max-width:100%;
+    
     
 }
     
@@ -219,7 +223,7 @@ nav ul li:hover {
     width: 600px;
     position: relative;
     max-width: 100%;
-    min-width: 300px;
+    min-width: 230px;
     cursor: pointer;
      
 }
@@ -325,7 +329,7 @@ audio::-webkit-media-controls-panel {
     cursor: pointer;
     margin-top: 200px;
     width:18.3%;
-
+   
     
    
    
@@ -349,6 +353,7 @@ text-align: center;
 font-size: 15px;
 color: #fff;
 max-width: 100%;
+
 }
 
 
