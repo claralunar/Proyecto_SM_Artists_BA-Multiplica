@@ -48,6 +48,26 @@ header {
 
 }
 
+.idioma{
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-style:outset;
+    border-radius: 2px;
+    font-size: medium;
+    background-color: pink;
+    width:120px;
+    height:30px;
+
+}
+
+.idioma:hover{
+    background-color:#fff;
+
+}
+
 nav{
     background-color: rgb(251, 225, 233);
     margin-bottom: 0;
@@ -219,16 +239,22 @@ nav ul li:hover {
 
 .nombre{
     text-align: center;
-    padding: 0px;
-    top:0px;
+    padding:0;
+    top:0;
     border-style:none;
     border-radius:50px;
     background-color: rgb(247, 35, 229);
-    border: 2px solid transparent;
+    border: 1px solid transparent;
     justify-content: center; 
     font-size: 20px;
     cursor: pointer;
+    outline:none;
+   
+   
     
+   
+
+
     
     /* 
     position: relative; 
@@ -240,8 +266,20 @@ nav ul li:hover {
 .nombre h3{
     font-size: 20px;
     text-align: center;
-   
+    justify-content: center;
+    color: #fff;
+    margin-top: 5px;
+
+    
+    
+    
       
+
+}
+
+.nombre:hover{
+
+    background-color:black;
 
 }
 
