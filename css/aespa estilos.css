@@ -5,7 +5,8 @@ body {
     height: 20px;
     margin: 0px;
     max-width: 100%;
-    min-width: 300px;
+    min-width: 200px;
+    
     
     }
     
@@ -28,7 +29,6 @@ body {
     .idioma{
     position: absolute;
     top: 0px;
-    left: 10px;
     margin-left: 10px;
     margin-top: 10px;
     border-style:outset;
@@ -37,6 +37,7 @@ body {
     background-color: pink;
     width:120px;
     height:30px;
+    max-width: 100%;
     
     }
     
@@ -46,13 +47,14 @@ body {
     }
     
     .encabezado{
-    font-size:large;
+     font-size:medium;
      text-align: center;
      height: 500px;
      background-image: url(../fotos/encabezado.jpg);
      background-size:cover;
      color: white;
      max-width: 100%;
+     min-width: 200px;
     
     
      
@@ -63,14 +65,13 @@ body {
     font-size: 20px;
     text-align: center;
     padding: 20px;
-    margin: 50px;
+    margin: 20px;
     max-width: 100%;
-    
-    
-    
-
-
+    min-width: 200px;
     }
+    
+    
+    
     
     .resumen{
     font-size: medium;
@@ -85,9 +86,12 @@ body {
     img{
         width: 200px;
         padding: 15px;
-        align-items: center;
-        margin-left: 50px;
+        margin-left: 20px;
+        margin-right: 5px;
         border-radius: 50%;
+        max-width: 100%;
+        
+       
         
     
        }
@@ -108,19 +112,31 @@ body {
        
 
     .row{
-        display: flex;
-        padding: 5px;
+        display:inline-flex;
+        padding: 2px;
+        max-width: 100%;
+        min-width: 100px;
+        flex-wrap:nowrap;
+        align-items: center;
+        vertical-align: middle;
+        margin:4em 0 1em 7.5%;
+        position: relative;
+       
         
         
         
     }
 
     .column {
-        flex: 33.33%; 
-        padding: 5px;
+        flex: 20px; 
         overflow: hidden;
         column-gap: 1px;
-        flex-wrap:wrap;
+        max-width: 100%;
+        justify-content:space-evenly;
+        align-items: center;
+        
+        
+       
 
     }
 
@@ -167,4 +183,5 @@ footer {
     font-size: 15px;
     color: #fff;
     max-width: 100%;
+    
     }

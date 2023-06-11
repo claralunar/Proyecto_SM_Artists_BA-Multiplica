@@ -5,7 +5,7 @@ body {
     height: 20px;
     margin: 0px;
     max-width: 100%;
-    min-width: 300px;
+    min-width: 200px;
    
 }
 
@@ -156,6 +156,7 @@ nav ul li:hover {
     align-items: center;
     height:100vh;
     margin:auto;
+    max-width: 100%;
 
 
 }
@@ -163,6 +164,7 @@ nav ul li:hover {
 .hero-content-inner h2{
     font-size: 30px;
     color: black;
+    max-width: 100%;
 
 
 
@@ -212,6 +214,7 @@ nav ul li:hover {
     justify-content:space-evenly;
     align-content:center;
     gap: 40px;
+    max-width: 100%;
 
     
     
