@@ -54,7 +54,7 @@ body {
      background-size:cover;
      color: white;
      max-width: 100%;
-     min-width: 200px;
+     min-width: 20px;
     
     
      
@@ -90,6 +90,7 @@ body {
         margin-right: 5px;
         border-radius: 50%;
         max-width: 100%;
+        
         
        
         

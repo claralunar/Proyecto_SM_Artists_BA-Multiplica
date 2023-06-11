@@ -317,13 +317,14 @@ audio::-webkit-media-controls-panel {
     box-sizing: border-box;
     max-width: 100%;
     justify-content: center;
+    
 
  
 
 
 }
 
-.redes ul li{
+.redes ul li {
     color:black;
     text-decoration: none;
     justify-content: center;
@@ -332,11 +333,21 @@ audio::-webkit-media-controls-panel {
     cursor: pointer;
     margin-top: 200px;
     width:18.3%;
-   
     
    
-   
+    
+
 }
+
+.redes ul li.i{
+    color: rgb(8, 80, 189);
+    size: 80px;
+    max-width: 100%;
+    text-decoration: none;
+    
+}
+
+
 
 
 
