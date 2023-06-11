@@ -202,7 +202,30 @@ nav ul li:hover {
     background:black;
     max-width: 100%;
 }
-   
+
+
+.explorar{
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    height: 100px;
+    background-color: hotpink;
+    padding: 20px;
+    margin:0 auto;
+    width: 800px;
+    max-width: 100%;
+    border-style:dotted;
+    background-image: linear-gradient(to right, violet,rgb(87, 87, 198));
+    
+
+}
+
+p{
+    color:white;
+    
+}
+
+
 
 /* ESTILOS CONTENEDOR */
 
@@ -312,11 +335,13 @@ audio::-webkit-media-controls-panel {
 
 .redes {
     list-style:none;
-    margin: 0;
+    margin: 0 auto;
     padding:0;
     box-sizing: border-box;
     max-width: 100%;
     justify-content: center;
+   
+
     
 
  
@@ -339,11 +364,11 @@ audio::-webkit-media-controls-panel {
 
 }
 
-.redes ul li.i{
-    color: rgb(8, 80, 189);
-    size: 80px;
+.redes ul li .i{
+    size: 100px;
     max-width: 100%;
     text-decoration: none;
+    font-size: 32px;
     
 }
 
