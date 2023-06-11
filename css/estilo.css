@@ -220,11 +220,23 @@ nav ul li:hover {
 
 }
 
-p{
+.explorar p{
     color:white;
+    max-width: 100%;
+    
+    
+    
     
 }
 
+@media only screen and (max-width:767px)
+{
+
+    .explorar{font-size: 15px;
+    margin:2px}
+    
+    
+}
 
 
 /* ESTILOS CONTENEDOR */
