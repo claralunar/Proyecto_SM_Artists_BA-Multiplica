@@ -6,7 +6,9 @@ boton.addEventListener('click',function(){
     const userInput =prompt ('Ingrese su email:');
 })
 
-// CLICK EN IMAGEN
+// CLICK EN IMAGEN Y AUDIO
+
+// AUDIO 1
 var mysong =new Audio();
 mysong.src="./audio/aespa - Welcome to my world.mp3";
 const playsong=()=>{
@@ -17,6 +19,7 @@ const pausesong=()=>{
     mysong.pause();
 }
 
+// AUDIO 2
 var mysong2 =new Audio();
 mysong2.src="./audio/limitless nct.mp3";
 const playsong2=()=>{
@@ -27,6 +30,7 @@ const pausesong2=()=>{
     mysong2.pause();
 }
 
+// AUDIO 3
 var mysong3 =new Audio();
 mysong3.src="./audio/domino wayv.mp3";
 const playsong3=()=>{
@@ -36,7 +40,7 @@ const playsong3=()=>{
 const pausesong3=()=>{
     mysong3.pause();
 }
-
+// AUDIO 4
 var mysong4 =new Audio();
 mysong4.src="./audio/peek a boo red velvet.mp3";
 const playsong4=()=>{
@@ -56,7 +60,7 @@ const playsong5=()=>{
 const pausesong5=()=>{
     mysong5.pause();
 }
-
+// AUDIO 6
 var mysong6 =new Audio();
 mysong6.src="./audio/x fx.mp3";
 const playsong6=()=>{
@@ -67,7 +71,7 @@ const pausesong6=()=>{
     mysong6.pause();
 }
 
-
+// AUDIO 7
 var mysong7 =new Audio();
 mysong7.src="./audio/view shinee .mp3";
 const playsong7=()=>{
@@ -78,12 +82,7 @@ const pausesong7=()=>{
     mysong7.pause();
 }
 
-
-
-
-
-
-
+// AUDIO 8
 var mysong8 =new Audio();
 mysong8.src="./audio/into snsd.mp3";
 const playsong8=()=>{
@@ -94,7 +93,7 @@ const pausesong8=()=>{
     mysong8.pause();
 }
 
-
+// AUDIO 9
 var mysong9 =new Audio();
 mysong9.src="./audio/black suit suju.mp3";
 const playsong9=()=>{
@@ -105,7 +104,7 @@ const pausesong9=()=>{
     mysong9.pause();
 }
 
-
+// AUDIO 10
 var mysong10 =new Audio();
 mysong10.src="./audio/catch me tvxq.mp3";
 const playsong10=()=>{
@@ -116,7 +115,7 @@ const pausesong10=()=>{
     mysong10.pause();
 }
 
-
+// AUDIO 11
 var mysong11 =new Audio();
 mysong11.src="./audio/only one boa.mp3";
 const playsong11=()=>{
@@ -127,7 +126,7 @@ const pausesong11=()=>{
     mysong11.pause();
 }
 
-
+// AUDIO 12
 var mysong12 =new Audio();
 mysong12.src="./audio/polaris kangta.mp3";
 const playsong12=()=>{

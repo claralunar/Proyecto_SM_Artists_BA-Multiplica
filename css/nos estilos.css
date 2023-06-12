@@ -8,6 +8,8 @@ body {
    
 }
 
+/* ESTILO HEADER */
+
 header { 
     background-color: rgb(251, 225, 233);
     font-style:bold;
@@ -24,6 +26,8 @@ header {
     cursor: pointer;
     
 }
+
+/* ESTILO BOTÓN IDIOMA NO CLICKEABLE */
 
 .idioma{
     position: absolute;
@@ -45,10 +49,7 @@ header {
 
 }
 
-.encabezado{
-    font-size: large;
-    text-align: center;
-}
+/* ESTILOS HERO */
 
 .hero-imagen{
     position: relative;
@@ -87,24 +88,7 @@ header {
 
 }
 
-/* .hero-content-inner h2{
-    font-size: 40px;
-    color: black;
-
-
-
-
-} */
-
-/* .hero-content-inner p{
-    /* font-size: 20px; */
-    /* max-width: 100%;
-    font-size: medium;
-    padding: 20px;
-    margin: 20px;
-
-}  */ 
-
+/* ESTILOS FOOTER  */
 footer {
     background-color: rgb(22, 30, 55);
     clear: both;

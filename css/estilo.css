@@ -68,6 +68,8 @@ header {
 
 }
 
+/* ESTILOS BARRA NAVEGACION */
+
 nav{
     background-color: rgb(251, 225, 233);
     margin-bottom: 0;
@@ -117,8 +119,6 @@ nav ul li:hover {
     
 }
     
-
-
 
 /* ESTILOS HERO */
 
@@ -203,6 +203,7 @@ nav ul li:hover {
     max-width: 100%;
 }
 
+/* ESTILOS INDICACIONES */
 
 .explorar{
     font-size: 20px;
@@ -292,18 +293,6 @@ nav ul li:hover {
     cursor: pointer;
     outline:none;
 
-   
-   
-    
-   
-
-
-    
-    /* 
-    position: relative; 
-    display: flex;
-    margin-top: auto; */
-
 }
 
 .nombre h3{
@@ -326,24 +315,9 @@ nav ul li:hover {
 
 }
 
-/* audio::-webkit-media-controls-play-button,
 
-audio::-webkit-media-controls-panel {
+/* ESTILO REDES */
 
-
-  background-color: #a0276e;
-
-  color: #a0276e;
-
-
-} */
-
-/* .audio-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    max-width: 100%;
-  } */
 
 .redes {
     list-style:none;
@@ -353,12 +327,6 @@ audio::-webkit-media-controls-panel {
     max-width: 100%;
     justify-content: center;
    
-
-    
-
- 
-
-
 }
 
 .redes ul li {
@@ -383,12 +351,6 @@ audio::-webkit-media-controls-panel {
     font-size: 32px;
     
 }
-
-
-
-
-
-
 
 
 
