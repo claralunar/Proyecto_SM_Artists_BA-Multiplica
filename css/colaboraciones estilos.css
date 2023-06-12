@@ -1,0 +1,172 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    height: 20px;
+    margin: 0px;
+    max-width: 100%;
+    min-width: 300px;
+   
+}
+
+header { 
+    background-color: rgb(251, 225, 233);
+    font-style:bold;
+    padding: 1em 0;
+    text-align: center;
+    height: 250px;
+    max-width:100%;
+   
+       
+} 
+
+.logo{
+    max-width: 100px;
+    cursor: pointer;
+    
+}
+
+.idioma{
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-style:outset;
+    border-radius: 2px;
+    font-size: medium;
+    background-color: pink;
+    width:120px;
+    height:30px;
+
+}
+
+.idioma:hover{
+    background-color:#fff;
+
+}
+
+.encabezado{
+    font-size: large;
+    text-align: center;
+}
+
+.hero-imagen{
+    position: relative;
+    padding:0;
+    margin:0;
+    max-width: 100%;
+    height:auto;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(../imagenes/vivo1.jpg);
+}
+
+.hero-imagen::before{
+    content:'';
+    position: absolute;
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+    background: rgba(0, 0, 0, 0);
+
+}
+
+.hero-content{
+
+    position: relative;
+    width: 60%;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    margin: auto;
+    
+
+
+}
+
+*{box-sizing: border-box;}
+
+h3{
+    font-size: 20px;
+    background-color:rgb(251, 225, 233);
+    padding: 5px;
+    margin: 0;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.formulario{
+    border-radius: 5px;
+    background-color:rgb(251, 225, 233);
+    padding: 20px;
+    padding-top: 50px;
+    max-width: 100%;
+    padding-bottom: 50px;
+
+    
+    
+
+}
+
+input{
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    max-width: 100%;
+    
+
+}
+
+input [type=text] ,select,textarea{
+    width: 100%;
+    padding:20px;
+    border:1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 20px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom:16px;
+    resize: vertical;
+    
+
+}
+
+input[type=submit]{
+    background-color: purple;
+    color: white;
+    padding: 12px 20px;
+    border:none;
+    border-radius:6px;
+    cursor: pointer;
+    max-width: 200px;
+   
+    
+   
+}
+
+input[type=submit]:hover{
+    background-color: black;
+}
+
+.mensaje{
+    height:200px;
+}
+
+
+
+footer {
+    background-color: rgb(22, 30, 55);
+    clear: both;
+    padding: 0.2em 0;
+    margin-bottom: 0;
+    margin-top:0;
+    text-align: center;
+    font-size: 15px;
+    color: #fff;
+    
+    }
+   
