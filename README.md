@@ -51,10 +51,10 @@ La seccion _Nosotros_ es simplemente un presentación que termina de cerrar la i
 
 * La seccion _Blog_ es un espacio que sirve para que los usuarios puedan leer diversas opiniones, comentarios, reseñas curiosidades que van más allá de las novedades o noticias. Estas publicaciones pueden ser escritas tanto por los administradores como por colaboradores externos, subscriptos o no. 
 
-* La sección _Colaboraciones_ es donde quienes quieran contribuir a la sección de Blog podrán ponerse en contacto con los administradores y expresar su interés por publicar llenando sus datos en el formulario, siempre sujeto a la consideración de los administradores. A partir de allí, las comunicaciones se harán a través de la casilla de mail y si son aceptados o no, se les prooverá de un nombre de usuario y contraseña que utilizarán para loguearse  en la página. La idea es que tanto fans más antigüos como los más recientes puedan interactuar proveyendo información pertinente e interactuando con likes o posiblemente con comentarios.
+* La sección _Colaboraciones_ es donde quienes quieran contribuir a la sección de Blog podrán ponerse en contacto con los administradores y expresar su interés por publicar llenando sus datos en el formulario, siempre sujeto a la consideración de los administradores. A partir de allí, las comunicaciones se harán a través de la casilla de mail y si son aceptados o no, se les prooverá de un nombre de usuario y contraseña que utilizarán para loguearse  en la página. La idea es que tanto fans más antiguos como los más recientes puedan interactuar proveyendo información pertinente e interactuando con likes o posiblemente con comentarios.
 ***
 ## Agradecimientos
 
-A la gente del programa BA Multiplica 2.0 y a nuestro profesor Martín Suarez por toda la información y el conocimiento que nos brindaron, por la paciencia y por darnos la oportunidad de ser creativos.
+A la gente del programa BA Multiplica 2.0 y a nuestro profesor Martín Suárez por toda la información y el conocimiento que nos brindaron, por la paciencia y por darnos la oportunidad de ser creativos.
 
 
