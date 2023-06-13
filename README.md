@@ -55,6 +55,6 @@ La seccion _Nosotros_ es simplemente un presentación que termina de cerrar la i
 ***
 ## Agradecimientos
 
-A la gente del programa BA Multiplica 2.0 y a nuestro profesor Martín Suárez por toda la información y el conocimiento que nos brindaron, por la paciencia y por darnos la oportunidad de ser creativos.
+A la gente del programa BA Multiplica 2.0 y a nuestro profesor Martín Suárez por toda la información y el conocimiento que nos brindaron, por la predisposición,  por la paciencia, y por darnos la oportunidad de ser creativos. Y a los chicos y chicas de la comisión 42 por ser tan copados y una buena compañía durante la cursada.
 
 
