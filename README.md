@@ -43,18 +43,15 @@ En caso de querer investigar más, el usuario puede hacer click en los botones c
 
 Para refrescar la página sólo hay que hacer click en el logo ubicado en el header.
 
-* Sección Nosotros
-Luego, en el navegador se observan varias secciones que involucrarán al usuario. 
+
+* Luego, en el navegador se observan varias secciones que involucrarán al usuario. 
 La seccion _Nosotros_ es simplemente un presentación que termina de cerrar la idea de la página. Nuevamente, para volver a la página principal hacer click en el logo del header. 
 
-* Sección Tendencias
-La sección _Tendencias_ está inactiva por el momento, pero idealmente podría incluirse una API que permita mostrar automáticamente las noticias o novedades de cada artista. Para futuras investigaciones...
+* La sección _Tendencias_ está inactiva por el momento, pero idealmente podría incluirse una API que permita mostrar automáticamente las noticias o novedades de cada artista. Para futuras investigaciones...
 
-* Sección Blog
-La seccion _Blog_ es un espacio que sirve para que los usuarios puedan leer diversas opiniones, comentarios, reseñas curiosidades que van más allá de las novedades o noticias. Estas publicaciones pueden ser escritas tanto por los administradores como por colaboradores externos, subscriptos o no. 
+* La seccion _Blog_ es un espacio que sirve para que los usuarios puedan leer diversas opiniones, comentarios, reseñas curiosidades que van más allá de las novedades o noticias. Estas publicaciones pueden ser escritas tanto por los administradores como por colaboradores externos, subscriptos o no. 
 
-* Sección Colaboraciones
-La sección _Colaboraciones_ es donde quienes quieran contribuir a la sección de Blog podrán ponerse en contacto con los administradores y expresar su interés por publicar llenando sus datos en el formulario, siempre sujeto a la consideración de los administradores. A partir de allí, las comunicaciones se harán a través de la casilla de mail y si son aceptados o no, se les prooverá de un nombre de usuario y contraseña que utilizarán para loguearse  en la página. La idea es que tanto fans más antigüos como los más recientes puedan interactuar proveyendo información pertinente e interactuando con likes o posiblemente con comentarios.
+* La sección _Colaboraciones_ es donde quienes quieran contribuir a la sección de Blog podrán ponerse en contacto con los administradores y expresar su interés por publicar llenando sus datos en el formulario, siempre sujeto a la consideración de los administradores. A partir de allí, las comunicaciones se harán a través de la casilla de mail y si son aceptados o no, se les prooverá de un nombre de usuario y contraseña que utilizarán para loguearse  en la página. La idea es que tanto fans más antigüos como los más recientes puedan interactuar proveyendo información pertinente e interactuando con likes o posiblemente con comentarios.
 ***
 ## Agradecimientos
 
