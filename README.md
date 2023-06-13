@@ -1,10 +1,10 @@
 # Título del Proyecto 
 ***
-<!em># SM Artists guía<em>
+# SM Artists guía
 ***
-[Alt text](imagenes/Portada.png)
+![Alt text](imagenes/Portada.png)
 ***
-_Este proyecto surge  principalmente a partir de una consigna para un trabajo para el programa de BA Multiplica 2.0 y en consecuencia como una idea para crear una guía que permita a fanáticos de Kpop de Latinoamérica, tanto hablantes de español como de portugés, acceder a novedades sobre la música y otros trabajos de los artistas de la empresa surcoreana SM Entertainment. 
+Este proyecto surge  principalmente a partir de una consigna para un trabajo para el programa de BA Multiplica 2.0 y en consecuencia como una idea para crear una guía que permita a fanáticos de Kpop de Latinoamérica, tanto hablantes de español como de portugés, acceder a novedades sobre la música y otros trabajos de los artistas de la empresa surcoreana SM Entertainment. 
 Como la empresa no posee una página dedicada única y específicamente a sus artistas musicales pensé en crear una.
 Además, dado que los contenidos de esta empresa no tienen una gran promoción en este lado del mundo, considero que es útil tener una guía que sirva tanto para fans antiguos como para fans nuevos. 
 Por otro lado, la página esta pensada para que sea simple e interactiva y facilitar la interacción con el usuario. 
@@ -22,8 +22,10 @@ Para poder visualizar y navegar en la página sólo es necesario poseer instalad
 La página se encuentra aun en desarrollo, ya que hay algunas funciones que no he logrado poner en marcha por limitaciones en mis conocimientos y algunos errores de responsividad en dispositivos móviles. 
 ***
 ## Link al proyecto
+https://github.com/claralunar/Proyecto_SM_Artists_BA-Multiplica
 ***
 ## Link al deploy
+https://claralunar.github.io/Proyecto_SM_Artists_BA-Multiplica/
 ***
 ## Instrucciones
 En primer lugar nos encontramos con la página principal, la cual da la bienvenida al usuario e inmediatamente lo invita a subscrirse con su dirección de correo para recibir las novedades, haciendo click en el botón violeta ubicado en el hero.
